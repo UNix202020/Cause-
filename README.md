@@ -1,7 +1,7 @@
 # Cause
 A New Social Entrepreneurial Project
 <!DOCTYPE html >
-<!-- Save before running -->
+
 <html lang="en">
 <head>
 	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
