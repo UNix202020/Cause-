@@ -20,9 +20,9 @@ A New Social Entrepreneurial Project
 		<p>AND raise money for our friends who are homeless.</p>
 	<h2>What do we do?</h2>
 		<ul>
-			<li>We make websites and apps, and engineer software.</li>
+			<li>We make websites and apps, we engineer software!</li>
 			<li>We mentor young people who are interested in learning how to code.</li> 
-			<li>We provide laptops to homeless or housing-compromised youth, so they can practice their coding skills.</li>
+			<li>We provide laptops to homeless or housing-compromised youth, so they can practice their coding skills and train for new jobs. We are especially interested in giving free or low-cost laptops to young women who want to learn how to code, but don't have computers.</li>
 			<li>We create opportunities for real-world work experience, by hiring them to help us on projects for a living wage.</li>
 		</ul>
 		<a href="www.google.com"><p>OUR PORTFOLIO</p></a>
